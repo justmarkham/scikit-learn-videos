@@ -16,7 +16,7 @@ This repo contains IPython notebooks from my scikit-learn video series, as seen 
     - What are some examples of machine learning?
     - How does machine learning "work"?
 
-2. Setting up Python for machine learning: scikit-learn and IPython Notebook ([video](https://www.youtube.com/watch?v=IsXXlYVBt1M&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=2), [notebook](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/blob/master/02_machine_learning_setup.ipynb))
+2. Setting up Python for machine learning: scikit-learn and IPython Notebook ([video](https://www.youtube.com/watch?v=IsXXlYVBt1M&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=2), [notebook](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/blob/master/02_machine_learning_setup.ipynb), [blog post](http://blog.kaggle.com/2015/04/15/scikit-learn-video-2-setting-up-python-for-machine-learning/))
     - What are the benefits and drawbacks of scikit-learn?
     - How do I install scikit-learn?
     - How do I use the IPython Notebook?
