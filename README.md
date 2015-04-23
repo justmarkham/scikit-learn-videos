@@ -22,7 +22,7 @@ This repo contains IPython notebooks from my scikit-learn video series, as seen 
     - How do I use the IPython Notebook?
     - What are some good resources for learning Python?
 
-3. Getting started in scikit-learn with the famous iris dataset ([video](https://www.youtube.com/watch?v=hd1W4CyPX58&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=3), [notebook](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/blob/master/03_getting_started_with_iris.ipynb), blog post)
+3. Getting started in scikit-learn with the famous iris dataset ([video](https://www.youtube.com/watch?v=hd1W4CyPX58&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=3), [notebook](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/blob/master/03_getting_started_with_iris.ipynb), [blog post](http://blog.kaggle.com/2015/04/22/scikit-learn-video-3-machine-learning-first-steps-with-the-iris-dataset/))
     - What is the famous iris dataset, and how does it relate to machine learning?
     - How do we load the iris dataset into scikit-learn?
     - How do we describe a dataset using machine learning terminology?
