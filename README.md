@@ -27,3 +27,8 @@ This repo contains IPython notebooks from my scikit-learn video series, as seen 
     - How do we load the iris dataset into scikit-learn?
     - How do we describe a dataset using machine learning terminology?
     - What are scikit-learn's four key requirements for working with data?
+
+4. Training a machine learning model with scikit-learn ([video](https://www.youtube.com/watch?v=RlQuVL6-qe8&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=4), [notebook](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/blob/master/04_model_training.ipynb), blog post)
+    - What is the K-nearest neighbors classification model?
+    - What are the four steps for model training and prediction in scikit-learn?
+    - How can I apply this pattern to other machine learning models?
