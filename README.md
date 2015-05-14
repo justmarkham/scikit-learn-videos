@@ -32,3 +32,8 @@ This repo contains IPython notebooks from my scikit-learn video series, as seen 
     - What is the K-nearest neighbors classification model?
     - What are the four steps for model training and prediction in scikit-learn?
     - How can I apply this pattern to other machine learning models?
+
+5. Comparing machine learning models in scikit-learn ([video](https://www.youtube.com/watch?v=0pP4EwWJgIU&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=5), [notebook](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/blob/master/05_model_evaluation.ipynb), blog post)
+    - How do I choose which model to use for my supervised learning task?
+    - How do I choose the best tuning parameters for that model?
+    - How do I estimate the likely performance of my model on out-of-sample data?
