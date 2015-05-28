@@ -37,3 +37,11 @@ This repo contains IPython notebooks from my scikit-learn video series, as seen 
     - How do I choose which model to use for my supervised learning task?
     - How do I choose the best tuning parameters for that model?
     - How do I estimate the likely performance of my model on out-of-sample data?
+
+6. Data science pipeline: pandas, seaborn, scikit-learn ([video](https://www.youtube.com/watch?v=3ZWuPVWq7p4&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=6), [notebook](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/blob/master/06_linear_regression.ipynb), [blog post](http://blog.kaggle.com/2015/05/28/scikit-learn-video-6-linear-regression-plus-pandas-seaborn/))
+    - How do I use the pandas library to read data into Python?
+    - How do I use the seaborn library to visualize data?
+    - What is linear regression, and how does it work?
+    - How do I train and interpret a linear regression model in scikit-learn?
+    - What are some evaluation metrics for regression problems?
+    - How do I choose which features to include in my model?
