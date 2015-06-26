@@ -45,3 +45,9 @@ This repo contains IPython notebooks from my scikit-learn video series, as seen 
     - How do I train and interpret a linear regression model in scikit-learn?
     - What are some evaluation metrics for regression problems?
     - How do I choose which features to include in my model?
+
+7. Cross-validation for parameter tuning, model selection, and feature selection (video, [notebook](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb), blog post)
+    - What is the drawback of using the train/test split procedure for model evaluation?
+    - How does K-fold cross-validation overcome this limitation?
+    - How can cross-validation be used for selecting tuning parameters, choosing between models, and selecting features?
+    - What are some possible improvements to cross-validation?
