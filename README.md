@@ -46,7 +46,7 @@ This repo contains IPython notebooks from my scikit-learn video series, as seen 
     - What are some evaluation metrics for regression problems?
     - How do I choose which features to include in my model?
 
-7. Cross-validation for parameter tuning, model selection, and feature selection ([video](https://www.youtube.com/watch?v=6dbrR-WymjI&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=7), [notebook](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb), blog post)
+7. Cross-validation for parameter tuning, model selection, and feature selection ([video](https://www.youtube.com/watch?v=6dbrR-WymjI&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=7), [notebook](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb), [blog post](http://blog.kaggle.com/2015/06/29/scikit-learn-video-7-optimizing-your-model-with-cross-validation/))
     - What is the drawback of using the train/test split procedure for model evaluation?
     - How does K-fold cross-validation overcome this limitation?
     - How can cross-validation be used for selecting tuning parameters, choosing between models, and selecting features?
