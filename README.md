@@ -52,7 +52,7 @@ This repo contains IPython notebooks from my scikit-learn video series, as seen 
     - How can cross-validation be used for selecting tuning parameters, choosing between models, and selecting features?
     - What are some possible improvements to cross-validation?
 
-8. Efficiently searching for optimal tuning parameters ([video](https://www.youtube.com/watch?v=Gol_qOgRqfA&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=8), [notebook](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/blob/master/08_grid_search.ipynb), blog post)
+8. Efficiently searching for optimal tuning parameters ([video](https://www.youtube.com/watch?v=Gol_qOgRqfA&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=8), [notebook](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/blob/master/08_grid_search.ipynb), [blog post](http://blog.kaggle.com/2015/07/16/scikit-learn-video-8-efficiently-searching-for-optimal-tuning-parameters/))
     - How can K-fold cross-validation be used to search for an optimal tuning parameter?
     - How can this process be made more efficient?
     - How do you search for multiple tuning parameters at once?
