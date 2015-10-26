@@ -7,6 +7,7 @@ This repo contains IPython notebooks from my scikit-learn video series, as seen 
 - [Read the blog posts](http://blog.kaggle.com/author/kevin-markham/) (Kaggle's blog)
 - [Watch the entire series](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) (YouTube playlist)
 - [View the IPython Notebooks](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/tree/master/) (nbviewer)
+- [Run the IPython Notebooks online](http://mybinder.org/repo/justmarkham/scikit-learn-videos) (binder)
 
 ## Individual videos
 
