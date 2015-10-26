@@ -4,9 +4,9 @@ This repo contains IPython notebooks from my scikit-learn video series, as seen 
 
 ## Entire series
 
+- [Read the blog posts](http://blog.kaggle.com/author/kevin-markham/) (Kaggle's blog)
 - [Watch the entire series](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) (YouTube playlist)
 - [View the IPython Notebooks](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/tree/master/) (nbviewer)
-- [Read the blog posts](http://blog.kaggle.com/author/kevin-markham/) (Kaggle's blog)
 
 ## Individual videos
 
@@ -59,7 +59,7 @@ This repo contains IPython notebooks from my scikit-learn video series, as seen 
     - What do you do with those tuning parameters before making real predictions?
     - How can the computational expense of this process be reduced?
 
-9. Evaluating a classification model ([video](https://www.youtube.com/watch?v=85dtiMz9tSo&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=9), [notebook](09_classification_metrics.ipynb), blog post)
+9. Evaluating a classification model ([video](https://www.youtube.com/watch?v=85dtiMz9tSo&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=9), [notebook](09_classification_metrics.ipynb), [blog post](http://blog.kaggle.com/2015/10/23/scikit-learn-video-9-better-evaluation-of-classification-models/))
     - What is the purpose of model evaluation, and what are some common evaluation procedures?
     - What is the usage of classification accuracy, and what are its limitations?
     - How does a confusion matrix describe the performance of a classifier?
