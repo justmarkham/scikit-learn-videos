@@ -2,7 +2,7 @@
 
 This repo contains IPython notebooks from my scikit-learn video series, as seen on Kaggle's blog.
 
-Want to master scikit-learn? I teach an online course, [Machine Learning with Text in Python](http://www.dataschool.io/learn/). **Starts April 9!**
+**Want to master scikit-learn?** I teach an online course, [Machine Learning with Text in Python](http://www.dataschool.io/learn/). **Starts April 9!**
 
 ## Entire series
 
