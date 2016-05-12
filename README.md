@@ -1,14 +1,14 @@
 # Introduction to machine learning with scikit-learn
 
-This repo contains IPython notebooks from my scikit-learn video series, as seen on Kaggle's blog.
+This repo contains the IPython/Jupyter notebooks from my scikit-learn video series, as seen on Kaggle's blog.
 
-**Want to master scikit-learn?** I teach an online course, [Machine Learning with Text in Python](http://www.dataschool.io/learn/). **Starts April 9!**
+**Want to master scikit-learn?** I teach an online course, [Machine Learning with Text in Python](http://www.dataschool.io/learn/).
 
 ## Entire series
 
 - [Read the blog posts](http://blog.kaggle.com/author/kevin-markham/) (Kaggle's blog)
 - [Watch the entire series](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) (YouTube playlist)
-- [View the IPython Notebooks](http://nbviewer.ipython.org/github/justmarkham/scikit-learn-videos/tree/master/) (nbviewer)
+- [View the IPython Notebooks](http://nbviewer.jupyter.org/github/justmarkham/scikit-learn-videos/tree/master/) (nbviewer)
 - [Run the IPython Notebooks online](http://mybinder.org/repo/justmarkham/scikit-learn-videos) (binder)
 
 ## Individual videos
