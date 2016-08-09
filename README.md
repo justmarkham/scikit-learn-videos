@@ -2,9 +2,9 @@
 
 This video series will teach you how to solve machine learning problems using Python's popular scikit-learn library. It was [featured on Kaggle's blog](http://blog.kaggle.com/author/kevin-markham/) in 2015.
 
-There are 9 video tutorials totaling 4 hours, each with a corresponding Jupyter notebook. The notebook contains everything you see in the video: code, output, images, and comments.
+There are **9 video tutorials** totaling 4 hours, each with a corresponding **Jupyter notebook**. The notebook contains everything you see in the video: code, output, images, and comments.
 
-There are links to each of the videos and notebooks below. Alternatively, you can [watch the entire series](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) on YouTube, and [view all of the notebooks](http://nbviewer.jupyter.org/github/justmarkham/scikit-learn-videos/tree/master/) on nbviewer.
+You can [watch the entire series](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) on YouTube, and [view all of the notebooks](http://nbviewer.jupyter.org/github/justmarkham/scikit-learn-videos/tree/master/) using nbviewer.
 
 [![Watch the first tutorial video](images/youtube.png)](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1 "Watch the first tutorial video")
 
@@ -72,9 +72,9 @@ Once you complete this video series, I recommend enrolling in my online course, 
     - What is the purpose of an ROC curve?
     - How does Area Under the Curve (AUC) differ from classification accuracy?
 
-## Bonus
+## Bonus Video
 
-At the PyCon 2016 conference, I taught a 3-hour tutorial that builds upon this video series and focuses on text-based data. You can watch the [tutorial video](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10) on YouTube.
+At the PyCon 2016 conference, I taught a **3-hour tutorial** that builds upon this video series and focuses on **text-based data**. You can watch the [tutorial video](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10) on YouTube.
 
 Here are the topics I covered:
 
