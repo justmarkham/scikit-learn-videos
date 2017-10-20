@@ -1,5 +1,7 @@
 # Introduction to machine learning with scikit-learn
 
+<a href="https://notebooks.azure.com/import/gh/justmarkham/scikit-learn-videos"><img src="https://notebooks.azure.com/launch.png" /></a>
+
 This video series will teach you how to solve machine learning problems using Python's popular scikit-learn library. It was [featured on Kaggle's blog](http://blog.kaggle.com/author/kevin-markham/) in 2015.
 
 There are **9 video tutorials** totaling 4 hours, each with a corresponding **Jupyter notebook**. The notebook contains everything you see in the video: code, output, images, and comments.
