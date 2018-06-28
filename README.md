@@ -8,8 +8,6 @@ You can [watch the entire series](https://www.youtube.com/playlist?list=PL5-da3q
 
 [![Watch the first tutorial video](images/youtube.png)](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1 "Watch the first tutorial video")
 
-There is also a [binder](http://mybinder.org/repo/justmarkham/scikit-learn-videos) linked to this repository, which will allow you to interact with the notebooks online (without downloading them).
-
 Once you complete this video series, I recommend enrolling in my online course, [Machine Learning with Text in Python](http://www.dataschool.io/learn/), to gain a deeper understanding of scikit-learn and Natural Language Processing.
 
 ## Table of Contents
