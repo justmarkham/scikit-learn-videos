@@ -6,7 +6,7 @@ There are **9 video tutorials** totaling 4 hours, each with a corresponding **Ju
 
 You can [watch the entire series](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) on YouTube, and [view all of the notebooks](http://nbviewer.jupyter.org/github/justmarkham/scikit-learn-videos/tree/master/) using nbviewer.
 
-**Note:** The notebooks in this repository have been updated to use Python 3.6 and scikit-learn 0.19.1. The original notebooks (shown in the video) used Python 2.7 and scikit-learn 0.16, and can be downloaded from the [archive branch](/tree/archive).
+**Note:** The notebooks in this repository have been updated to use Python 3.6 and scikit-learn 0.19.1. The original notebooks (shown in the video) used Python 2.7 and scikit-learn 0.16, and can be downloaded from the [archive branch](https://github.com/justmarkham/scikit-learn-videos/tree/archive).
 
 [![Watch the first tutorial video](images/youtube.png)](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1 "Watch the first tutorial video")
 
