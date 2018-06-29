@@ -18,10 +18,10 @@ Once you complete this video series, I recommend enrolling in my online course, 
     - What are some examples of machine learning?
     - How does machine learning "work"?
 
-2. Setting up Python for machine learning: scikit-learn and IPython Notebook ([video](https://www.youtube.com/watch?v=IsXXlYVBt1M&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=2), [notebook](02_machine_learning_setup.ipynb), [blog post](http://blog.kaggle.com/2015/04/15/scikit-learn-video-2-setting-up-python-for-machine-learning/))
+2. Setting up Python for machine learning: scikit-learn and Jupyter Notebook ([video](https://www.youtube.com/watch?v=IsXXlYVBt1M&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=2), [notebook](02_machine_learning_setup.ipynb), [blog post](http://blog.kaggle.com/2015/04/15/scikit-learn-video-2-setting-up-python-for-machine-learning/))
     - What are the benefits and drawbacks of scikit-learn?
     - How do I install scikit-learn?
-    - How do I use the IPython Notebook?
+    - How do I use the Jupyter Notebook?
     - What are some good resources for learning Python?
 
 3. Getting started in scikit-learn with the famous iris dataset ([video](https://www.youtube.com/watch?v=hd1W4CyPX58&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=3), [notebook](03_getting_started_with_iris.ipynb), [blog post](http://blog.kaggle.com/2015/04/22/scikit-learn-video-3-machine-learning-first-steps-with-the-iris-dataset/))
