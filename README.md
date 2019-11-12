@@ -1,6 +1,6 @@
 # Introduction to machine learning with scikit-learn
 
-This video series will teach you how to solve machine learning problems using Python's popular scikit-learn library. There are **9 video tutorials** totaling 4 hours, each with a corresponding **Jupyter notebook**. The notebook contains everything you see in the video: code, output, images, and comments.
+This video series will teach you how to solve machine learning problems using Python's popular scikit-learn library. There are **10 video tutorials** totaling 4.5 hours, each with a corresponding **Jupyter notebook**. The notebook contains everything you see in the video: code, output, images, and comments.
 
 **Note:** The notebooks in this repository have been updated to use Python 3.6 and scikit-learn 0.19.1. The original notebooks (shown in the video) used Python 2.7 and scikit-learn 0.16, and can be downloaded from the [archive branch](https://github.com/justmarkham/scikit-learn-videos/tree/archive). You can read about how I updated the code in this [blog post](https://www.dataschool.io/how-to-update-your-scikit-learn-code-for-2018/).
 
@@ -69,6 +69,14 @@ Once you complete this video series, I recommend enrolling in my online course, 
     - How can you adjust classifier performance by changing the classification threshold?
     - What is the purpose of an ROC curve?
     - How does Area Under the Curve (AUC) differ from classification accuracy?
+
+10. Encoding categorical features ([video](https://www.youtube.com/watch?v=irHhDMbw3xo&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10), [notebook](10_categorical_features.ipynb))
+    - Why should you use a Pipeline?
+    - How do you encode categorical features with OneHotEncoder?
+    - How do you apply OneHotEncoder to selected columns with ColumnTransformer?
+    - How do you build and cross-validate a Pipeline?
+    - How do you make predictions on new data using a Pipeline?
+    - Why should you use scikit-learn (rather than pandas) for preprocessing?
 
 ## Bonus Video
 
