@@ -1,3 +1,5 @@
+English
+
 # Introduction to Machine Learning with scikit-learn
 
 This video series will teach you how to solve Machine Learning problems using Python's popular scikit-learn library. There are **10 video tutorials** totaling 4.5 hours, each with a corresponding **Jupyter notebook**.
@@ -95,3 +97,67 @@ Here are the topics I covered:
 9. Tuning the vectorizer (discussion)
 
 Visit this [GitHub repository](https://github.com/justmarkham/pycon-2016-tutorial) to access the tutorial notebooks and many other recommended resources.
+
+---
+
+
+Nederlands
+
+# Inleiding tot machine learning met scikit-learn
+
+Deze videoserie leert je hoe je Machine Learning-problemen oplost met behulp van de populaire scikit-learn-bibliotheek van Python. Er zijn **10 videozelfstudies** van in totaal 4,5 uur, elk met een bijbehorend **Jupyter-notebook**. Het notitieboek bevat alles wat je in de video ziet: code, uitvoer, afbeeldingen en opmerkingen.
+
+**Opmerking:** De notebooks in deze repository zijn bijgewerkt om Python 3.9.1 en scikit-learn 0.23.2 te gebruiken. De originele notebooks (getoond in de video) gebruikten Python 2.7 en scikit-learn 0.16 en kunnen worden gedownload van de [archieftak](https://github.com/justmarkham/scikit-learn-videos/tree/archive). Je kunt lezen hoe ik de code heb bijgewerkt in deze [blogpost](https://www.dataschool.io/how-to-update-your-scikit-learn-code-for-2018/).
+
+Je kunt [de hele serie bekijken](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) op YouTube en [alle notebooks bekijken](http://nbviewer.jupyter.org/github /justmarkham/scikit-learn-videos/tree/master/) met nbviewer.
+
+[![Bekijk de eerste instructievideo](images/youtube.png)](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1 "Bekijk de eerste instructievideo")
+
+Zodra je deze videoserie hebt voltooid, raad ik aan om je in te schrijven voor mijn online cursus, [Machine Learning with Text in Python](https://www.dataschool.io/learn/), om een ​​beter begrip te krijgen van scikit-learn en natuurlijke taal Verwerken.
+
+## Inhoudsopgave
+
+1. Wat is machine learning en hoe werkt het? ([video](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1), [notebook](01_machine_learning_intro.ipynb))
+    - Wat is machinaal leren?
+    - Wat zijn de twee hoofdcategorieën van Machine Learning?
+    - Wat zijn enkele voorbeelden van Machine Learning?
+    - Hoe "werkt" machine learning?
+
+2. Python instellen voor machine learning: scikit-learn en Jupyter Notebook ([video](https://www.youtube.com/watch?v=IsXXlYVBt1M&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=2), [notebook](02_machine_learning_setup.ipynb ))
+    - Wat zijn de voor- en nadelen van scikit-learn?
+    - Hoe installeer ik scikit-learn?
+    - Hoe gebruik ik de Jupyter Notebook?
+    - Wat zijn enkele goede bronnen om Python te leren?
+
+3. Aan de slag in scikit-learn met de beroemde irisdataset ([video](https://www.youtube.com/watch?v=hd1W4CyPX58&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=3), [notebook](03_getting_startedynb_iris.
+    - Wat is de beroemde iris-dataset en hoe verhoudt deze zich tot Machine Learning?
+    - Hoe laden we de irisdataset in scikit-learn?
+    - Hoe beschrijven we een dataset met behulp van Machine Learning-terminologie?
+    - Wat zijn de vier belangrijkste vereisten van scikit-learn voor het werken met gegevens?
+
+4. Een Machine Learning-model trainen met scikit-learn ([video](https://www.youtube.com/watch?v=RlQuVL6-qe8&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=4), [notebook](04_model_training.ipynb))
+    - Wat is het classificatiemodel van K-nearest buren?
+    - Wat zijn de vier stappen voor modeltraining en -voorspelling in scikit-learn?
+    - Hoe kan ik dit patroon toepassen op andere Machine Learning-modellen?
+
+5. Machine Learning-modellen vergelijken in scikit-learn ([video](https://www.youtube.com/watch?v=0pP4EwWJgIU&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=5), [notebook](05_model_evaluation.ipynb))
+    - Hoe kies ik welk model ik gebruik voor mijn begeleide leertaak?
+    - Hoe kies ik de beste afstemmingsparameters voor dat model?
+    - Hoe schat ik de waarschijnlijke prestaties van mijn model op out-of-sample data?
+
+6. Datawetenschapspijplijn: pandas, seaborn, scikit-learn ([video](https://www.youtube.com/watch?v=3ZWuPVWq7p4&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=6), [notebook](06_linear_regression.ipynb)
+    - Hoe gebruik ik de panda-bibliotheek om gegevens in Python te lezen?
+    - Hoe gebruik ik de seaborn-bibliotheek om gegevens te visualiseren?
+    - Wat is lineaire regressie en hoe werkt het?
+    - Hoe train en interpreteer ik een lineair regressiemodel in scikit-learn?
+    - Wat zijn enkele evaluatiestatistieken voor regressieproblemen?
+    - Hoe kies ik welke functies ik in mijn model wil opnemen?
+
+7. Kruisvalidatie voor het afstemmen van parameters, modelselectie en functieselectie ([video](https://www.youtube.com/watch?v=6dbrR-WymjI&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=7), [notebook](07_cross_validation .ipynb))
+    - Wat is het nadeel van het gebruik van de trein/test split-procedure voor modelevaluatie?
+    - Hoe overwint K-fold kruisvalidatie deze beperking?
+    - Hoe kan kruisvalidatie worden gebruikt voor het selecteren van afstemmingsparameters, het kiezen tussen modellen en het selecteren van functies?
+    - Wat zijn enkele mogelijke verbeteringen aan kruisvalidatie?
+
+8. Efficiënt zoeken naar optimale afstemmingsparameters ([video](https://www.youtube.com/watch?v=Gol_qOgRqfA&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=8), [notebook](08_grid_search.ipynb))
+    - Hoe kan K-voudige kruisvalidatie worden gebruikt?
